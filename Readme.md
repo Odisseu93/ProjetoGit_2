@@ -1,1 +1,1 @@
-Olá, este é o meu primeiro projeto e é a para uso de didatico de como utilizar o Git.
+Olá, este é o meu primeiro projeto e é a para uso de didatico de como utilizar o Git e Github.
