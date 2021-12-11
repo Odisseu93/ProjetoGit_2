@@ -1,0 +1,1 @@
+Olá, este projeto é a para uso de didatico de como utilizar o Git.
